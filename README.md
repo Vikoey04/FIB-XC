@@ -3,6 +3,8 @@
 ## Xarxes de Computadors - FIB
 
 - [Diapositives classes de teoria](/teoria-diaps)
+- [Problemes XC](/problemes)
+- [Documentació Laboratoris](/documentacio-lab)
 - [Web de l'assignatura](https://docencia.ac.upc.edu/FIB/grau/XC/)
 
 ## Videos de repàs
