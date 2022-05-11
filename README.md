@@ -3,7 +3,7 @@
 ## Xarxes de Computadors - FIB
 
 - Diapositives classes de teoria
-
+- [Web de l'assignatura](https://docencia.ac.upc.edu/FIB/grau/XC/)
 
 ## Videos de repàs
 
@@ -19,3 +19,7 @@
 
 - [(exercici túnel IP)](https://youtu.be/o3EfTDl6tZ8)
 - [(exemples de configuracions de túnels)](https://youtu.be/yezeP685WtQ)
+
+## Informació addicional
+
+- Documentació i diapositives XC del professor Davide Careglio -> [Link](https://people.ccaba.upc.edu/careglio/index.php/teaching/xc/)
