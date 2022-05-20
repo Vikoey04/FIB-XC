@@ -1,5 +1,21 @@
 # XC - Xarxes de Computadors - FIB
 
+En aquesta assignatura s'aprèn la complexitat que hi ha darrera d'aquesta xarxa d'abast mundial, que permet l'intercanvi d'informació de forma fiable i eficient. El seu contingut està centrar fonamentalment en Internet. S'explica com està organitzat, quins són els protocols més importants i per a què serveixen. L'assignatura intenta fer una explicació "científica", avaluant amb problemes senzills els protocols que s'expliquen. Una part important de l'assignatura són les sessions de laboratori. En aquestes es realitzen pràctiques acuradament dissenyades per a que l'alumne experimenti "amb les seves pròpies mans" els conceptes que s'expliquen en les classes teòriques. 
+
+## Continguts
+1. Introducció
+Introducció a Internet, xarxa de paquets organismes d'estandardització i el model de referència OSI de ISO.
+2. Xarxes IP
+Conèixer el format d'un datagrama IP. Tenir destresa amb el coneixement de l'adreçament IP, numeració, adreces púbiques i privades, subnetting. Conèixer els altres protocols de suport a IP (ICMP, ARP, DHCP). Saber com s'encamina un datagrama, què és la taula d'encaminament i conceptes dels algorismes d'encaminament IGP i EGP. Nocions bàsiques de NAT i seguretat en xarxes IP: Concepte de firewall i xarxes privades virtuals.
+3. El protocol TCP
+Conèixer el nivell de transport i les seves funcions més importants: Nocions sobre els protocols per a la recuperació automàtica d'errors (ARQ). Nivell de transport en xarxes TCP/IP: Els protocols UDP i TCP, en particular, els mecanismes de control de flux i control de congestió de TCP. Interfície de les aplicacions amb el nivell de transport (sockets).
+4. Xarxes d'àrea local
+Conèixer el diferents medis de transmissió i cablatge estructurat. Conèixer els principis dels protocols d'accés a un medi compartit en una xarxa d'àrea local. Protocol Ethernet, commutadors, VLANs i trunking. Nocions sobre les xarxes sense fils i el protocol 802.11 (WiFi).
+5. Aplicacions en xarxa
+Conèixer el paradigma client-servidor que fan servir les aplicacions en les xarxes TCP/IP, així com les aplicacions més importants (web, email, dns) i els protocols que fan servir (http, smtp).
+Conèixer alguns formats de la representació de documents de les aplicacions
+(html, xml).
+
 ## Xarxes de Computadors - FIB
 
 - [Diapositives classes de teoria](/teoria-diaps)
