@@ -58,19 +58,63 @@ Conèixer alguns formats de la representació de documents de les aplicacions
 - TCP-8: [Finestra de transmissió](https://youtu.be/xyVfAD2JwdI)
 - TCP-9: [Rendiment del TCP](https://youtu.be/ZKRZEwbaybU)
 
+- DNS-1: [Introducció](https://youtu.be/j4RxGW2tItM)
+- DNS-2: [Root servers](https://youtu.be/VJT-ItSE1ZQ)
+- DNS-3: [Protoccol](https://youtu.be/AGilrzaLFTc)
+
+- SMTP-1: [Protocol SMTP](https://youtu.be/kgQFs5848k0)
+- SMTP-2: [MIME](https://youtu.be/u-NZKc90BHU)
+- SMTP-3: [POP IMAP HTTP](https://youtu.be/zbjUQjneDC4)
+
+- HTTP: [HTTP](https://youtu.be/_toRs-mAIfk)
+- HTML Charsets: [HTML Charsets](https://youtu.be/ImyqF4EmEjI)
+
 ## Informació addicional
 
 - Documentació i diapositives XC del professor Davide Careglio -> [Link](https://people.ccaba.upc.edu/careglio/index.php/teaching/xc/)
 - Llibre *Xarxes de Computadors: Conceptes bàsics* per Llorenç Cerdà -> [PDF](/documentacio-addicional/llibre-xc-conceptes-basics_ll-cerda.pdf) extret de [Link online](https://upcommons.upc.edu/handle/2099.3/36825)
 
-### Dsitribuicions linux per a fer les pràctiques des de casa
+## Eines per repassar les pràctiques de laboratori/lab tools
+#### 🟧 Per a les pràctiques amb els PCs
+1. Configuració LINUX
+6. TCP
+7. DNS
+
+Distribuicions linux per a fer les pràctiques des de casa:
 - Distribució alpine: https://studies.ac.upc.edu/FIB/grau/XC/alpine-xarxes.ova
 - Distribució slitaz: https://studies.ac.upc.edu/FIB/grau/XC/slitaz50-xarxes.ova
 
-- Videos demos per a utilitzar Virtual Box en algunes pràctiques
+      Per importar-la des de VirtualBox:
+      Fitxer -> Importar màquina virtual
+      Per clonar-la amb virtualbox
+      clone MARCAR L'OPCIÓ: "reinitialize the mac address of all network cards"
+      -> Linked clone
+      
+      Podeu crear una xarxa de MVs i connectar-les per a repassar algunes de les pràctiques del laboratori.
+      Veureu que la MV està configurada amb 4 targetes ethernet. Perquè dues MVs tinguin una targeta en la mateixa xarxa,
+      cal anar a paràmetres -> xarxa -> nom, i posar el mateix nom en les dues MVs
+
+
+#### 🟧 Per a les pràctiques amb IOS
+2. Configuració IOS
+3. RIP
+4. ACL I NAT
+5. Switches
+- Enllaç per a descarregar el simulador packettracer de CISCO. Cal registrar-se per a descarregar-lo sense cost. [https://www.netacad.com/about-networking-academy/packet-tracer/](https://www.netacad.com/about-networking-academy/packet-tracer/) 
+
+         Per crear un compte: -> log in -> login -> sign up -> accedir al compte -> resources -> download packettracer
+         El model del routers que hi ha en els racks és 1841, els commutadors són 2950.
+         En el següent enllaç us podeu descarregar el simulador packettracer de CISCO.
+
+#### 🟧 Videos demos per algunes pràctiques
+- Per a utilitzar ***Virtual Box***
    - [Xarxa anfitrio](https://www.youtube.com/watch?v=kORjZwhYOvE&t=17s)
    - [Lab TCP](https://youtu.be/vL8WrEYPitk)
    - [Lab DNS](https://www.youtube.com/watch?v=lZUcEKt9cx4&t=3s)
+- Per a utilitzar ***Packettracer***
+   - [demo](https://youtu.be/ekkQy39lB5k)
+   - [VLANs](https://youtu.be/07WKKy5gNX4)
+   - [Com configurar un servidor FTP i HTTP per a la pràctica de ACLs](https://youtu.be/AmFrNCyvJB8)
 
 ## Questionaris d'autoevaluació / self-assessments
 
